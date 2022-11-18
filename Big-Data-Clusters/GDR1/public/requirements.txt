@@ -8,3 +8,4 @@ matplotlib
 nbinteract
 scipy
 jupyter-book
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
